@@ -5,12 +5,10 @@ import os
 import string
 
 
-def getAlbums(text):
-	# traverse root directory, and list directories as dirs and files as files
+def getAlbums(text):	
 	for root, dirs, files in os.walk("."):
-	    path = root.split('/')
-	    print (len(path) - 1) *'---' , os.path.basename(root)       
-	    for file in files:
+	    path = root.split('/')	    
+	    for file in filter(lambda file: file.endswith('.txt'), files):
 	        print len(path)*'---', file
 
 getAlbums("lol")

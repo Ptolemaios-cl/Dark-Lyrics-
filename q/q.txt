@@ -1,0 +1,21 @@
+[<div class="artists fl">
+<a href="q/q5.html">Q5</a><br/>
+<a href="q/qantice.html">QANTICE</a><br/>
+<a href="q/qntal.html">QNTAL</a><br/>
+<a href="q/quadrivium.html">QUADRIVIUM</a><br/>
+<a href="q/qualm.html">QUALM</a><br/>
+<a href="q/quanticenevercrashed.html">QUANTICE NEVER CRASHED</a><br/>
+<a class="extLink" href="http://www.azlyrics.com/q/queensofthestoneage.html" target="_blank">QUEENS OF THE STONE AGE</a><br/>
+<a href="q/queensryche.html">QUEENSRYCHE</a><br/>
+<a href="q/quicksanddream.html">QUICKSAND DREAM</a><br/>
+<a href="q/quietriot.html">QUIET RIOT</a><br/>
+<a href="t/thequill.html">the QUILL</a><br/>
+<a href="q/quorthon.html">QUORTHON</a><br/>
+<a href="q/quovadis.html">QUO VADIS</a><br/>
+<a href="q/quovadiscanada.html">QUO VADIS</a> (CANADA)<br/>
+</div>][<div class="artists fr">
+<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=6181&amp;m=6&amp;tp=8&amp;d=j&amp;t=n"></script>
+<noscript><a href="http://media.fastclick.net/w/click.here?sid=6181&amp;m=6&amp;c=1" target="_blank">
+<img border="1" height="250" src="http://media.fastclick.net/w/get.media?sid=6181&amp;m=6&amp;tp=8&amp;d=s&amp;c=1" width="300"/></a></noscript>
+<br/><br/>
+</div>]

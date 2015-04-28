@@ -1,0 +1,63 @@
+[<div class="artists fl">
+<a href="j/jackfrost.html">JACK FROST</a><br/>
+<a href="j/jackketch.html">JACK KETCH</a><br/>
+<a class="extLink" href="http://www.azlyrics.com/j/jackoff.html" target="_blank">JACK OFF JILL</a><br/>
+<a href="j/jackslater.html">JACK SLATER</a><br/>
+<a href="j/jackstarrsburningstarr.html">JACK STARR'S BURNING STARR</a><br/>
+<a href="j/jackyl.html">JACKYL</a><br/>
+<a href="j/jacobsdream.html">JACOB'S DREAM</a><br/>
+<a href="j/jagpanzer.html">JAG PANZER</a><br/>
+<a href="j/jailbird.html">JAILBIRD</a><br/>
+<a href="j/jairus.html">JAIRUS</a><br/>
+<a href="j/jaldaboath.html">JALDABOATH</a><br/>
+<a href="j/jameslabrie.html">JAMES LABRIE</a><br/>
+<a href="j/jamesmurphy.html">JAMES MURPHY</a><br/>
+<a href="j/jamieselsewhere.html">JAMIE'S ELSEWHERE</a><br/>
+<a href="j/japanischekampfhrspiele.html">JAPANISCHE KAMPFHÖRSPIELE</a><br/>
+<a href="j/japunga.html">JAPUNGA</a><br/>
+<a href="j/jasad.html">JASAD</a><br/>
+<a href="j/jasta.html">JASTA</a><br/>
+<a href="j/jdoverdrive.html">J. D. OVERDRIVE</a><br/>
+<a href="a/ajealousyissue.html">a JEALOUSY ISSUE</a><br/>
+<a href="j/jeffloomis.html">JEFF LOOMIS</a><br/>
+<a href="t/thejellyjam.html">the JELLY JAM</a><br/>
+<a href="j/jennieteblersoutofoblivion.html">JENNIE TEBLER'S OUT OF OBLIVION</a><br/>
+<a href="j/jerk.html">JERK</a><br/>
+<a href="j/jessandtheancientones.html">JESS AND THE ANCIENT ONES</a><br/>
+<a href="j/jestersfuneral.html">JESTER'S FUNERAL</a><br/>
+<a href="j/jestersmarch.html">JESTER'S MARCH</a><br/>
+<a href="j/jesu.html">JESU</a><br/>
+<a href="j/jesusmartyr.html">JESUS MARTYR</a><br/>
+<a href="j/jesuswept.html">JESUS WEPT</a><br/>
+<a class="extLink" href="http://www.azlyrics.com/j/jethrotull.html" target="_blank">JETHRO TULL</a><br/>
+<a href="j/jexthoth.html">JEX THOTH</a><br/>
+<a href="j/jioda.html">JIODA</a><br/>
+<a href="j/jobforacowboy.html">JOB FOR A COWBOY</a><br/>
+<a href="j/johansson.html">JOHANSSON</a><br/>
+<a href="j/johnarch.html">JOHN ARCH</a><br/>
+<a href="j/johnnybooth.html">JOHNNY BOOTH</a><br/>
+</div>][<div class="artists fr">
+<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=6181&amp;m=6&amp;tp=8&amp;d=j&amp;t=n"></script>
+<noscript><a href="http://media.fastclick.net/w/click.here?sid=6181&amp;m=6&amp;c=1" target="_blank">
+<img border="1" height="250" src="http://media.fastclick.net/w/get.media?sid=6181&amp;m=6&amp;tp=8&amp;d=s&amp;c=1" width="300"/></a></noscript>
+<br/><br/>
+<a href="j/johnwest.html">JOHN WEST</a><br/>
+<a href="t/thejonbent.html">the JONBENÉT</a><br/>
+<a href="j/jonoliva.html">JON OLIVA</a><br/>
+<a href="j/jonolivaspain.html">JON OLIVA'S PAIN</a><br/>
+<a href="j/jordanrudess.html">JORDAN RUDESS</a><br/>
+<a href="j/jorn.html">JORN</a><br/>
+<a href="j/jornlandetrondholter.html">JORN LANDE &amp; TROND HOLTER</a><br/>
+<a href="j/joseandrea.html">JOSE ANDREA</a><br/>
+<a class="extLink" href="http://www.azlyrics.com/j/journey.html" target="_blank">JOURNEY</a><br/>
+<a href="t/thejudasfactor.html">the JUDAS FACTOR</a><br/>
+<a href="j/judasiscariot.html">JUDAS ISCARIOT</a><br/>
+<a href="j/judaspriest.html">JUDAS PRIEST</a><br/>
+<a href="j/judge.html">JUDGE</a><br/>
+<a href="j/julielaughsnomore.html">JULIE LAUGHS NOMORE</a><br/>
+<a href="j/jumpinjesus.html">JUMPIN' JESUS</a><br/>
+<a href="j/jungbluth.html">JUNGBLUTH</a><br/>
+<a href="j/junglerot.html">JUNGLE ROT</a><br/>
+<a href="j/junius.html">JUNIUS</a><br/>
+<a href="j/justice.html">JUSTICE</a><br/>
+</div>]
