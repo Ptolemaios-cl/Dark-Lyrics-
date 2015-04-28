@@ -5,14 +5,13 @@ import os
 import string
 
 
-def getAlbums(text):
+def main(text):
 	for root, dirs, files in os.walk("."):
 	    path = root.split('/')
 	    for file in filter(lambda file: file.endswith('.txt'), files):
         	getBand(open(os.path.join(root, file)).read())
 
-def getBand(archivo):
-	#print archivo	
+def getBand(archivo):	
 	soup = bs4.BeautifulSoup(archivo)
 
 	for a in soup.find_all('a', href=True):
@@ -26,5 +25,17 @@ def getBand(archivo):
 							if not 'azvideos' in link:
 								print link
 
+def getAlbums(link):	
+	response = requests.get('http://www.darklyrics.com/'+link)
+	response.encoding = "utf-8"
+	soup = bs4.BeautifulSoup(response.text)	
+	for a in soup.find_all('a', href=True):
+		album_link = a['href']
+		band_name = link.replace(".html", "")				
+		band_name = band_name[2:]
+		if band_name in album_link:
+			if '#1' in album_link:
+				print album_link[3:-2]
 
-getAlbums("lol")
+#main("lol")
+getAlbums("a/aaaarrghh.html")
