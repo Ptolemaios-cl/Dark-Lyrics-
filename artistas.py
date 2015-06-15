@@ -11,7 +11,7 @@ ruta = "/-^JobZ^-/Dark Lyrics" #ruta carpeta para guardar txt
 def getArtists(text):
   lowerText = text.lower()
   for letter in allTheLetters:
-	response = requests.get('http://www.darklyrics.com/'+letter+'.html')
+	response = requests.get('http://www.darklyrics.com/'+letter+'.html')	
 	response.encoding = "utf-8"
 
 	carpeta = os.path.abspath(ruta+"/%s" % letter)
@@ -31,5 +31,6 @@ def getArtists(text):
 
 	file1.write(toFile)
 	file1.close()
+
 
 getArtists("lol")
